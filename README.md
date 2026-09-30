@@ -67,10 +67,8 @@ AI-powered retinal screening platform designed for explainable diabetic retinopa
 <code>OpenCV</code>
 </p>
 
-<br>
-
 <a href="https://github.com/Sanjubhati1010/diabetic-retinopathy-screening">
-<img src="https://img.shields.io/badge/View%20Project-0e75b6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Project-0e75b6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -91,10 +89,8 @@ Generative AI project focused on optimizing Retrieval-Augmented Generation workf
 <code>Generative AI</code>
 </p>
 
-<br>
-
 <a href="https://github.com/Sanjubhati1010/rag-cost-optimizer">
-<img src="https://img.shields.io/badge/View%20Project-6f42c1?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Project-6f42c1?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -119,10 +115,8 @@ Retrieval-Augmented Generation based AI application for intelligent information 
 <code>AI</code>
 </p>
 
-<br>
-
 <a href="https://github.com/Sanjubhati1010/RAG-PROJECT">
-<img src="https://img.shields.io/badge/View%20Project-00a67e?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Project-00a67e?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -143,10 +137,8 @@ Collection of web development and software projects built using modern frontend,
 <code>MySQL</code>
 </p>
 
-<br>
-
 <a href="https://github.com/Sanjubhati1010?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20All%20Projects-24292f?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explore%20All%20Projects-24292f?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -365,16 +357,10 @@ Collection of web development and software projects built using modern frontend,
 <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
-</p>
-
----
-
-## 📫 Contact Me
-
-<p align="center">
+&nbsp;&nbsp;
 
 <a href="mailto:sanjaybhati73782@gmail.com">
-<img src="https://img.shields.io/badge/Email-sanjaybhati73782%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </p>
