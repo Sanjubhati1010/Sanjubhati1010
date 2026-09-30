@@ -13,13 +13,9 @@
 
 - 🤝 I’m looking for help with [🤝 Exploring Generative AI, Cloud & Modern Web Technologies](https://github.com/Sanjubhati1010/RAG-PROJECT)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sanjubhati1010](https://github.com/Sanjubhati1010)
-
 - 💬 Ask me about **Web Development, React, JavaScript, Python, AI/ML**
 
 - 📫 How to reach me **sanjaybhati73782@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/Sanjubhati1010/Sanjay-Bhati-Resume](https://github.com/Sanjubhati1010/Sanjay-Bhati-Resume)
 
 - ⚡ Fun fact **I love building projects and learning new technologies.**
 
