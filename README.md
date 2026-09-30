@@ -53,36 +53,48 @@ I'm a **BCA student and Full-Stack Developer** passionate about building modern 
 
 <td width="50%" valign="top">
 
-### 🩺 Diabetic Retinopathy Screening
+<h3>🩺 Diabetic Retinopathy Screening</h3>
 
-AI-powered retinal screening platform with explainable AI and Grad-CAM visualization.
+<p>
+AI-powered retinal screening platform designed for explainable diabetic retinopathy detection with Grad-CAM visualization.
+</p>
 
-**Tech Stack**
-
-`React` `FastAPI` `PyTorch` `OpenCV`
+<p>
+<b>Tech Stack:</b><br><br>
+<code>React</code>
+<code>FastAPI</code>
+<code>PyTorch</code>
+<code>OpenCV</code>
+</p>
 
 <br>
 
 <a href="https://github.com/Sanjubhati1010/diabetic-retinopathy-screening">
-<img src="https://img.shields.io/badge/View%20Project-0e75b6?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View%20Project-0e75b6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🤖 RAG Cost Optimizer
+<h3>🤖 RAG Cost Optimizer</h3>
 
-Generative AI project focused on optimizing RAG workflows and reducing unnecessary LLM costs.
+<p>
+Generative AI project focused on optimizing Retrieval-Augmented Generation workflows and reducing unnecessary LLM costs.
+</p>
 
-**Tech Stack**
-
-`Python` `RAG` `LLM` `Generative AI`
+<p>
+<b>Tech Stack:</b><br><br>
+<code>Python</code>
+<code>RAG</code>
+<code>LLM</code>
+<code>Generative AI</code>
+</p>
 
 <br>
 
 <a href="https://github.com/Sanjubhati1010/rag-cost-optimizer">
-<img src="https://img.shields.io/badge/View%20Project-6f42c1?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View%20Project-6f42c1?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -93,36 +105,48 @@ Generative AI project focused on optimizing RAG workflows and reducing unnecessa
 
 <td width="50%" valign="top">
 
-### 🧠 RAG Project
+<h3>🧠 RAG Project</h3>
 
-Retrieval-Augmented Generation based AI application for intelligent information retrieval.
+<p>
+Retrieval-Augmented Generation based AI application for intelligent information retrieval and AI-powered responses.
+</p>
 
-**Tech Stack**
-
-`Python` `RAG` `LLM` `AI`
+<p>
+<b>Tech Stack:</b><br><br>
+<code>Python</code>
+<code>RAG</code>
+<code>LLM</code>
+<code>AI</code>
+</p>
 
 <br>
 
 <a href="https://github.com/Sanjubhati1010/RAG-PROJECT">
-<img src="https://img.shields.io/badge/View%20Project-00a67e?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View%20Project-00a67e?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌐 More Projects
+<h3>💻 Full-Stack Projects</h3>
 
-Explore my GitHub repositories for more web development, AI/ML and software projects.
+<p>
+Collection of web development and software projects built using modern frontend, backend and database technologies.
+</p>
 
-**Areas**
-
-`Web Development` `AI/ML` `Full-Stack`
+<p>
+<b>Tech Stack:</b><br><br>
+<code>React</code>
+<code>Node.js</code>
+<code>MongoDB</code>
+<code>MySQL</code>
+</p>
 
 <br>
 
 <a href="https://github.com/Sanjubhati1010?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20Repositories-24292f?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Explore%20All%20Projects-24292f?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -323,19 +347,19 @@ Explore my GitHub repositories for more web development, AI/ML and software proj
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://instagram.com/sanju_p_bhati">
 <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://www.leetcode.com/sanjaybhati09">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://discord.gg/hSbTqMDmgV">
 <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
