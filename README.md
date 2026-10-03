@@ -50,3 +50,23 @@
     />
   </picture>
 </p>
+<div align="center">
+
+<!-- Contribution Snake -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Sanjubhati1010/Sanjubhati1010/main/output/snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Sanjubhati1010/Sanjubhati1010/main/output/snake-light.svg"
+  />
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/Sanjubhati1010/Sanjubhati1010/main/output/snake-light.svg"
+    alt="Sanjay Bhati's GitHub Contribution Snake"
+  />
+</picture>
+
+</div>
