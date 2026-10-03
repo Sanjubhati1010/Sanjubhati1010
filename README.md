@@ -70,3 +70,16 @@
 </picture>
 
 </div>
+<!-- ===== PROJECTS ===== -->
+
+<div align="center">
+
+<img
+  width="100%"
+  src="https://raw.githubusercontent.com/Sanjubhati1010/Sanjubhati1010/main/output/projects.svg"
+  alt="Projects"
+/>
+
+</div>
+
+<!-- ===== END PROJECTS ===== -->
