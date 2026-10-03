@@ -19,9 +19,9 @@ jobs:
       - name: Generate Streak Stats
         uses: zients/github-readme-streak-stats@v2
         with:
-          user: Sanjubhati1010
-          output_path: profile/streak.svg
-          disable_animations: false
+          options: user=Sanjubhati1010&theme=transparent&disable_animations=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit Streak Card
         run: |
