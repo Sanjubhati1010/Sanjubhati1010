@@ -1,41 +1,171 @@
-# Hi 👋, I'm Sanjay Bhati
 
-### BCA Student | Full-Stack Developer | AI/ML & Generative AI Enthusiast
+<!-- ===================================================== -->
+<!-- SANJAY BHATI | GITHUB PROFILE README                   -->
+<!-- ===================================================== -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanjubhati1010&label=Profile views&color=0e75b6&style=flat" alt="Sanjubhati1010" /> </p>
+<h1 align="center">Hey, I'm Sanjay Bhati 👋</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sanjubhati1010" alt="Sanjubhati1010" /></a> </p>
+<h3 align="center">
+  BCA Student | Full-Stack Developer | AI/ML & Generative AI Enthusiast
+</h3>
 
-- 🔭 I'm currently working on **Building intelligent AI/ML solutions, exploring Deep Learning and Neural Networks, and developing Explainable AI systems to solve real-world problems.
-**
-
-- 🌱 I'm currently learning **Deep Learning, Generative AI, LLMs, RAG, AI Agents, PyTorch, MLOps, Federated Learning, React.js, Node.js and AWS Cloud.**
-
-- 👯 I'm looking to collaborate on **AI/ML projects, Deep Learning research, Generative AI applications, open-source contributions, and innovative solutions that solve real-world problems.**
-
-- 🤝 I'm looking for help with **Advanced Machine Learning, Deep Learning model optimization, LLMs, RAG pipelines, Federated Learning, and scalable AI system architecture.**
-
-- 💬 Ask me about **Python, C/C++, React.js, Web Development, Machine Learning, AI-powered applications, GitHub projects, and my journey into AI research.**
-
-- 📫 How to reach me **sanjaybhati73782@gmail.com**
-
-- ⚡ Fun fact **I love turning complex ideas into working projects — from training AI models to building intelligent applications. Always curious, always building! 🚀**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Sanjubhati1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Sanjubhati1010" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sanjay-bhati-382a26338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjay-bhati-382a26338" height="30" width="40" /></a>
-<a href="https://instagram.com/sanju_p_bhati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanju_p_bhati" height="30" width="40" /></a>
-<a href="https://leetcode.com/sanjaybhati09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanjaybhati09" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/hSbTqMDmgV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/hSbTqMDmgV" height="30" width="40" /></a>
+<p align="center">
+  Building intelligent applications at the intersection of AI and software development.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angularjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angularjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+<p align="center">
+  <a href="https://github.com/Sanjubhati1010">
+    <img src="https://img.shields.io/badge/GitHub-Sanjubhati1010-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:sanjaybhati73782@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanjubhati1010&show_icons=true&locale=en&layout=compact" alt="Sanjubhati1010" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sanjubhati1010&style=flat-square&color=6366f1&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sanjubhati1010&show_icons=true&locale=en" alt="Sanjubhati1010" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjubhati1010&" alt="Sanjubhati1010" /></p>
+## 👨‍💻 About Me
 
+- 🎓 BCA student passionate about technology and innovation.
+- 🤖 Interested in Artificial Intelligence, Machine Learning and Deep Learning.
+- 🔭 Working on AI-powered applications and Explainable AI.
+- 🌱 Learning Generative AI, LLMs, RAG systems and AI Agents.
+- 💻 Building projects with Python, React and modern backend technologies.
+- ☁️ Exploring AWS, cloud computing and MLOps.
+- 🤝 Interested in open-source contributions, hackathons and collaborations.
+- 🎯 Goal: Build practical technology that solves real-world problems.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" alt="C, C++, Java, Python, JavaScript and TypeScript"/>
+</p>
+
+### 🎨 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs,figma" alt="HTML, CSS, React, Tailwind CSS, Next.js and Figma"/>
+</p>
+
+### ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Node.js, Express and FastAPI"/>
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" alt="MongoDB, MySQL, PostgreSQL and Redis"/>
+</p>
+
+### 📊 Data Science & Visualization
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,anaconda,opencv" alt="Python, Anaconda and OpenCV"/>
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="48" alt="NumPy"/>
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="48" alt="Pandas"/>
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="48" alt="Jupyter"/>
+  <img src="https://cdn.simpleicons.org/plotly/3F4F75" height="48" alt="Plotly"/>
+</p>
+
+### 🤖 AI, Machine Learning & Generative AI
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="PyTorch and TensorFlow"/>
+  <img src="https://cdn.simpleicons.org/huggingface" height="48" alt="Hugging Face"/>
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="48" alt="LangChain"/>
+</p>
+
+### ☁️ Cloud, DevOps & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman" alt="AWS, Docker, Git, GitHub, VS Code and Postman"/>
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 🩺 MADOCS — Explainable AI for Diabetic Retinopathy Screening
+
+An AI-powered retinal screening project designed for rural and low-resource healthcare settings.
+
+**Key features**
+- 🧠 Deep learning-based diabetic retinopathy classification.
+- 🔍 Grad-CAM visual explanations for model predictions.
+- 🖼️ Retinal image quality assessment and enhancement.
+- 🏥 Decision-support workflow for screening and referral prioritization.
+
+**Technology stack:** Python, PyTorch, EfficientNet-B0, Grad-CAM, FastAPI and React.
+
+<p align="left">
+  <a href="https://github.com/Sanjubhati1010/diabetic-retinopathy-screening">
+    <img src="https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore MADOCS"/>
+  </a>
+</p>
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sanjubhati1010&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjubhati1010&layout=compact&theme=tokyonight&hide_border=true" alt="Top programming languages"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sanjubhati1010&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/Sanjubhati1010">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub repositories"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Explore my GitHub profile for projects, code and contributions.</i>
+</p>
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm interested in collaborating on:
+
+- 🤖 AI, ML and Deep Learning projects.
+- 🧠 Generative AI, LLMs and RAG applications.
+- 🌐 Full-stack web development.
+- 🌍 Open-source projects and hackathons.
+
+For collaboration, reach out at **sanjaybhati73782@gmail.com**.
+
+---
+
+<p align="center">
+  <b>Learn continuously. Build intelligently. Make an impact. 🚀</b>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile!</i>
+</p>
